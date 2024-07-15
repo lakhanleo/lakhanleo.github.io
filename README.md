@@ -3,14 +3,12 @@ Wallzy (Flutter)
 
 - Developed a dynamic and visually appealing wallpaper application using Flutter.
   
-- Implemented features including image browsing, search functionality, and wallpaper setting.
+- Implemented features including image browsing, search functionality, and wallpaper download.
   
 - Integrated third-party APIs for high-quality image retrieval and ensured smooth performance.
   
 - Designed a user-friendly UI with Figma, focusing on enhancing user experience and engagement.
-  
-- Utilized state management techniques to manage the app's state efficiently.
-  
+
 - Ensured compatibility across various devices and screen sizes through responsive design practices.
   
 - Conducted thorough testing and debugging to maintain high app performance and reliability.
